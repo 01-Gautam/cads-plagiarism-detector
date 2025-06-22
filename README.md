@@ -1,6 +1,6 @@
 # 🤖 CADS: Code Authenticity Detection System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR_STREAMLIT_APP_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cads-plagiarism-detector-pt7v39zijm5niyo3mwly67.streamlit.app/)
 
 **CADS** is a sophisticated, web-based tool designed to analyze and detect similarities in code files. Powered by an advanced fingerprinting algorithm and a modern, immersive user interface built with Streamlit, CADS provides a seamless experience for ensuring code authenticity.
 
