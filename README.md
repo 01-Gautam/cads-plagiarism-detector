@@ -108,6 +108,7 @@ We are <b>Team Code Explorers</b> — passionate about code quality, academic in
 </div>
 
 <br>
+
 ---
 
 > **Connect with us on GitHub and check out our other projects!**
