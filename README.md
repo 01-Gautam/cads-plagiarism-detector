@@ -68,11 +68,19 @@ We are <b>Team Code Explorers</b> — passionate about code quality, academic in
 
 <br>
 
-<table>
+## <span style="font-size:1.5em">👥 About Our Team</span>
+
+We are <b>Team Code Explorers</b> — passionate about code quality, academic integrity, and building immersive web tools!
+
+<br>
+
+<div align="center">
+
+<table width="80%">
   <tr>
-    <th style="font-size:1.1em;">Role</th>
-    <th style="font-size:1.1em;">Name</th>
-    <th style="font-size:1.1em;">GitHub</th>
+    <th style="font-size:1.1em; min-width: 180px;">Role</th>
+    <th style="font-size:1.1em; min-width: 220px;">Name</th>
+    <th style="font-size:1.1em; min-width: 220px;">GitHub</th>
   </tr>
   <tr>
     <td><span style="font-size:1.3em;">👑</span> <b>Team Leader</b></td>
@@ -102,6 +110,8 @@ We are <b>Team Code Explorers</b> — passionate about code quality, academic in
     </td>
   </tr>
 </table>
+
+</div>
 
 <br>
 ---
