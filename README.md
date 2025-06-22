@@ -63,17 +63,44 @@ To run this project on your own machine, follow these steps:
 
 ---
 
----
-
 ## 👥 About Our Team
 
 We are **Team Code Explorers** — passionate about code quality, academic integrity, and building immersive web tools!
 
-| Role         | Name            | GitHub Profile                                      |
-|--------------|-----------------|-----------------------------------------------------|
-| Team Leader  | Sambhav Jain    | [@Sambhav1501](https://github.com/Sambhav1501)      |
-| Member 1     | Gautam Tripathi | [@01-Gautam](https://github.com/01-Gautam)          |
-| Member 2     | Mohd Adeeb Ansari | [@adeebansari110](https://github.com/adeebansari110) |
+<table>
+  <tr>
+    <th>Role</th>
+    <th>Name</th>
+    <th>GitHub</th>
+  </tr>
+  <tr>
+    <td><b>👑 Team Leader</b></td>
+    <td><b>Sambhav Jain</b></td>
+    <td>
+      <a href="https://github.com/Sambhav1501">
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="Sambhav Jain GitHub"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧑‍💻 Member 1</b></td>
+    <td><b>Gautam Tripathi</b></td>
+    <td>
+      <a href="https://github.com/01-Gautam">
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="Gautam Tripathi GitHub"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🧑‍💻 Member 2</b></td>
+    <td><b>Mohd Adeeb Ansari</b></td>
+    <td>
+      <a href="https://github.com/adeebansari110">
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="Mohd Adeeb Ansari GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
