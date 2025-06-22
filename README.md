@@ -68,12 +68,6 @@ We are <b>Team Code Explorers</b> — passionate about code quality, academic in
 
 <br>
 
-## <span style="font-size:1.5em">👥 About Our Team</span>
-
-We are <b>Team Code Explorers</b> — passionate about code quality, academic integrity, and building immersive web tools!
-
-<br>
-
 <div align="center">
 
 <table width="80%">
