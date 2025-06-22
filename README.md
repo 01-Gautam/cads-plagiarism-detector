@@ -60,3 +60,21 @@ To run this project on your own machine, follow these steps:
 ---
 
 ## ❤️ Developed by Team Code Explorers
+
+---
+
+---
+
+## 👥 About Our Team
+
+We are **Team Code Explorers** — passionate about code quality, academic integrity, and building immersive web tools!
+
+| Role         | Name            | GitHub Profile                                      |
+|--------------|-----------------|-----------------------------------------------------|
+| Team Leader  | Sambhav Jain    | [@Sambhav1501](https://github.com/Sambhav1501)      |
+| Member 1     | Gautam Tripathi | [@01-Gautam](https://github.com/01-Gautam)          |
+| Member 2     | Mohd Adeeb Ansari | [@adeebansari110](https://github.com/adeebansari110) |
+
+---
+
+> **Connect with us on GitHub and check out our other projects!**
