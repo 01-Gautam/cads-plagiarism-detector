@@ -62,46 +62,48 @@ To run this project on your own machine, follow these steps:
 ## ❤️ Developed by Team Code Explorers
 
 ---
+## <span style="font-size:1.5em">👥 About Our Team</span>
 
-## 👥 About Our Team
+We are <b>Team Code Explorers</b> — passionate about code quality, academic integrity, and building immersive web tools!
 
-We are **Team Code Explorers** — passionate about code quality, academic integrity, and building immersive web tools!
+<br>
 
 <table>
   <tr>
-    <th>Role</th>
-    <th>Name</th>
-    <th>GitHub</th>
+    <th style="font-size:1.1em;">Role</th>
+    <th style="font-size:1.1em;">Name</th>
+    <th style="font-size:1.1em;">GitHub</th>
   </tr>
   <tr>
-    <td><b>👑 Team Leader</b></td>
-    <td><b>Sambhav Jain</b></td>
+    <td><span style="font-size:1.3em;">👑</span> <b>Team Leader</b></td>
+    <td><b><span style="font-size:1.1em;">Sambhav Jain</span></b></td>
     <td>
       <a href="https://github.com/Sambhav1501">
-        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="Sambhav Jain GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge" alt="Sambhav Jain GitHub"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td><b>🧑‍💻 Member 1</b></td>
-    <td><b>Gautam Tripathi</b></td>
+    <td><span style="font-size:1.3em;">🧑‍💻</span> <b>Member 1</b></td>
+    <td><b><span style="font-size:1.1em;">Gautam Tripathi</span></b></td>
     <td>
       <a href="https://github.com/01-Gautam">
-        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="Gautam Tripathi GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge" alt="Gautam Tripathi GitHub"/>
       </a>
     </td>
   </tr>
   <tr>
-    <td><b>🧑‍💻 Member 2</b></td>
-    <td><b>Mohd Adeeb Ansari</b></td>
+    <td><span style="font-size:1.3em;">🧑‍💻</span> <b>Member 2</b></td>
+    <td><b><span style="font-size:1.1em;">Mohd Adeeb Ansari</span></b></td>
     <td>
       <a href="https://github.com/adeebansari110">
-        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="Mohd Adeeb Ansari GitHub"/>
+        <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge" alt="Mohd Adeeb Ansari GitHub"/>
       </a>
     </td>
   </tr>
 </table>
 
+<br>
 ---
 
 > **Connect with us on GitHub and check out our other projects!**
